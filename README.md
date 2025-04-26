@@ -1,1 +1,1 @@
-# Everything About PANDAS , NAUMPY , MATPLOTLIB
+# Everything About PANDAS , NUMPY , MATPLOTLIB
